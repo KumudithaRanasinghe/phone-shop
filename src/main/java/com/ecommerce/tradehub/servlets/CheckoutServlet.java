@@ -36,7 +36,7 @@ public class CheckoutServlet extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    private static final String STRIPE_SECRET_KEY = "sk_test_51QExXKKvtK0LCoLlIbqIgxXGYPKwHAfFNUhXbqj0e2jNc0TqszPXmitIcrZt1KUQgZJvMbX3r1FNX9oy7iBeTrjJ00mENSkRpr";
+    private static final String STRIPE_SECRET_KEY = "";
     
     @Override
     public void init() {
